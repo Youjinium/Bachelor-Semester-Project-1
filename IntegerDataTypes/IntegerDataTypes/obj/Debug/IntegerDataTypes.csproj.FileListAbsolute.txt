@@ -1,7 +1,0 @@
-C:\Users\toneu\Visual Studios\source\repos\IntegerDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.exe.config
-C:\Users\toneu\Visual Studios\source\repos\IntegerDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.exe
-C:\Users\toneu\Visual Studios\source\repos\IntegerDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.pdb
-C:\Users\toneu\Visual Studios\source\repos\IntegerDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.csprojAssemblyReference.cache
-C:\Users\toneu\Visual Studios\source\repos\IntegerDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.csproj.CoreCompileInputs.cache
-C:\Users\toneu\Visual Studios\source\repos\IntegerDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.exe
-C:\Users\toneu\Visual Studios\source\repos\IntegerDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.pdb

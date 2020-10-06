@@ -1,0 +1,7 @@
+C:\Users\toneu\Visual Studios\source\repos\SinusCosinus\SinusCosinus\SinusCosinus\bin\Debug\SinusCosinus.exe.config
+C:\Users\toneu\Visual Studios\source\repos\SinusCosinus\SinusCosinus\SinusCosinus\bin\Debug\SinusCosinus.exe
+C:\Users\toneu\Visual Studios\source\repos\SinusCosinus\SinusCosinus\SinusCosinus\bin\Debug\SinusCosinus.pdb
+C:\Users\toneu\Visual Studios\source\repos\SinusCosinus\SinusCosinus\SinusCosinus\obj\Debug\SinusCosinus.csprojAssemblyReference.cache
+C:\Users\toneu\Visual Studios\source\repos\SinusCosinus\SinusCosinus\SinusCosinus\obj\Debug\SinusCosinus.csproj.CoreCompileInputs.cache
+C:\Users\toneu\Visual Studios\source\repos\SinusCosinus\SinusCosinus\SinusCosinus\obj\Debug\SinusCosinus.exe
+C:\Users\toneu\Visual Studios\source\repos\SinusCosinus\SinusCosinus\SinusCosinus\obj\Debug\SinusCosinus.pdb

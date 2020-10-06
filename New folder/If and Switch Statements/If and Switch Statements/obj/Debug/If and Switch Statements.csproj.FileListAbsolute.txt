@@ -1,0 +1,7 @@
+C:\Visual Studios\source\repos\If and Switch Statements\If and Switch Statements\obj\Debug\If and Switch Statements.csprojAssemblyReference.cache
+C:\Visual Studios\source\repos\If and Switch Statements\If and Switch Statements\obj\Debug\If and Switch Statements.csproj.CoreCompileInputs.cache
+C:\Visual Studios\source\repos\If and Switch Statements\If and Switch Statements\bin\Debug\If and Switch Statements.exe.config
+C:\Visual Studios\source\repos\If and Switch Statements\If and Switch Statements\bin\Debug\If and Switch Statements.exe
+C:\Visual Studios\source\repos\If and Switch Statements\If and Switch Statements\bin\Debug\If and Switch Statements.pdb
+C:\Visual Studios\source\repos\If and Switch Statements\If and Switch Statements\obj\Debug\If and Switch Statements.exe
+C:\Visual Studios\source\repos\If and Switch Statements\If and Switch Statements\obj\Debug\If and Switch Statements.pdb

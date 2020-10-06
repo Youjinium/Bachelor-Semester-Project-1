@@ -1,7 +1,0 @@
-C:\Users\toneu\Visual Studios\source\Temperature Conversion\Temperature Conversion\bin\Debug\Temperature Conversion.exe.config
-C:\Users\toneu\Visual Studios\source\Temperature Conversion\Temperature Conversion\bin\Debug\Temperature Conversion.exe
-C:\Users\toneu\Visual Studios\source\Temperature Conversion\Temperature Conversion\bin\Debug\Temperature Conversion.pdb
-C:\Users\toneu\Visual Studios\source\Temperature Conversion\Temperature Conversion\obj\Debug\Temperature Conversion.csprojAssemblyReference.cache
-C:\Users\toneu\Visual Studios\source\Temperature Conversion\Temperature Conversion\obj\Debug\Temperature Conversion.csproj.CoreCompileInputs.cache
-C:\Users\toneu\Visual Studios\source\Temperature Conversion\Temperature Conversion\obj\Debug\Temperature Conversion.exe
-C:\Users\toneu\Visual Studios\source\Temperature Conversion\Temperature Conversion\obj\Debug\Temperature Conversion.pdb
